@@ -47,8 +47,8 @@ learning:
 
 # ─── team ──────────────────────────────────────────────────────────────
 team:
-  - "@username2"   # backend and LLM integration
-  - "@username3"   # UI, packaging, docs
+  - "@Tc-KA"   # backend and LLM integration
+  - "@p-lt"   # Frontend
 my_part: "idea, planning, priorities, testing, and keeping the team on track"
 
 # ─── values ────────────────────────────────────────────────────────────
